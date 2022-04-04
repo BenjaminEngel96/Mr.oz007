@@ -99,7 +99,7 @@ webpmux -version
 - [Saweria](https://saweria.co/fadlyid)
 
 # Feature Test
-- [X-NoneBot](https://wa.me/6285867933269)
+- [X-NoneBot](https://wa.me/6289529688364)
 
 # Bug Report
 - [Developer](https://wa.me/6289529688364)
