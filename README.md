@@ -1,26 +1,26 @@
 <p align="center">
-<img src="https://telegra.ph/file/91e1c3af213527b277eb8.jpg" alt="X-NONE BOT" width="128" height="128"/>
+<img src="https://telegra.ph/BenjaminEngel96-04-04.jpg" alt="BenjaminEngel96" width="128" height="128"/>
 </p>
 <p align="center">
-<a href="#"><img title="X-NONE BOT" src="https://img.shields.io/badge/X-NONE BOT-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
+<a href="#"><img title="BenjaminEngel96" src="https://img.shields.io/badge/BenjaminEngel96-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
 <p align="center">
 <a href="https://github.com/xdlyy404"><img title="Author" src="https://img.shields.io/badge/Author-Fadly ID-red.svg?style=for-the-badge&logo=github"></a>
 </p>
 <p align="center">
 <a href="https://github.com/xdlyy404/followers"><img title="Followers" src="https://img.shields.io/github/followers/xdlyy404?color=blue&style=flat-square"></a>
-<a href="https://github.com/X-NoneTeam/megumikato2/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/xdlyy404/X-NoneBot?color=red&style=flat-square"></a>
-<a href="https://github.com/X-NoneTeam/megumikato2/network/members"><img title="Forks" src="https://img.shields.io/github/forks/xdlyy404/X-NoneBot?color=red&style=flat-square"></a>
-<a href="https://github.com/X-NoneTeam/megumikato2/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/xdlyy404/X-NoneBot?label=Watchers&color=blue&style=flat-square"></a>
+<a href="https://github.com/BenjaminEngel96/megumikato2/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/xdlyy404/X-NoneBot?color=red&style=flat-square"></a>
+<a href="https://github.com/BenjaminEngel96/megumikato2/network/members"><img title="Forks" src="https://img.shields.io/github/forks/xdlyy404/BenjaminEngel96?color=red&style=flat-square"></a>
+<a href="https://github.com/BenjaminEngel96/megumikato2/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/xdlyy404/BenjaminEngel96?label=Watchers&color=blue&style=flat-square"></a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/X-NoneTeam/X-NoneBot#requirements">Requirements</a> •
-  <a href="https://github.com/X-NoneTeam/X-NoneBot#instalasi">Installation</a> •
-  <a href="https://github.com/X-NoneTeam/X-NoneBot#feature-test">Fature test</a> •
-  <a href="https://github.com/X-NoneTeam/X-NoneBot#bug-report">Bug report</a> •
-  <a href="https://github.com/X-NoneTeam/X-NoneBot#features">Features</a> •
-  <a href="https://github.com/X-NoneTeam/X-NoneBot#thanks-to">Thanks to</a>
+  <a href="https://github.com/BenjaminEngel96/Mr.oz007#requirements">Requirements</a> •
+  <a href="https://github.com/BenjaminEngel96/Mr.oz007#instalasi">Installation</a> •
+  <a href="https://github.com/BenjaminEngel96/Mr.oz007#feature-test">Fature test</a> •
+  <a href="https://github.com/BenjaminEngel96/Mr.oz007#bug-report">Bug report</a> •
+  <a href="https://github.com/BenjaminEngel96/Mr.oz007#features">Features</a> •
+  <a href="https://github.com/BenjaminEngel96/Mr.oz007#thanks-to">Thanks to</a>
 </p>
 </div>
 
@@ -42,8 +42,8 @@
 # Instalasi
 ## For Windows
 ```bash
-git clone https://github.com/X-NoneTeam/X-NoneBot
-cd X-NoneBot
+git clone https://github.com/BenjaminEngel96/Mr.oz007
+cd Mr.oz007
 npm install
 npm start
 ```
@@ -52,8 +52,8 @@ npm start
 termux-setup-storage
 apt update && apt upgrade
 pkg install nodejs git ffmpeg libwebp imagemagick
-git clone https://github.com/X-NoneTeam/X-NoneBot
-cd X-NoneBot
+git clone https://github.com/BenjaminEngel96/Mr.oz007
+cd Mr.oz007
 npm install
 npm start
 ```
@@ -96,18 +96,18 @@ webpmux -version
 ```
 
 ## Donate
-- [Saweria](https://saweria.co/fadlyid)
+- [Saweria](https://saweria.co/BenjaminEngel96)
 
 # Feature Test
-- [X-NoneBot](https://wa.me/6289529688364)
+- [BenjaminEngel96](https://wa.me/6289529688364)
 
 # Bug Report
 - [Developer](https://wa.me/6289529688364)
 
 # Features
-- Cek [disini](https://github.com/X-NoneTeam/X-NoneBot/blob/main/message/help.js)
+- Cek [disini](https://github.com/BenjaminEngel96/Mr.oz007/blob/main/message/help.js)
 
 # Thanks to
 * [`Baileys`](https://github.com/adiwajshing/Baileys)
 * [`Fadly ID`](https://github.com/xdlyy404)
-* [`X-None Team`](https://github.com/X-NoneTeam)
+* [`BenjaminEngel96`](https://github.com/BenjaminEngel96)
